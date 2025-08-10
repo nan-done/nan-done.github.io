@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Neural Nets and Fuzzy Logic"
 venue: BITS Pilani"
-date: 2022-08
+date: 2022-08-01
 location: "Pilani, India"
 ---
 

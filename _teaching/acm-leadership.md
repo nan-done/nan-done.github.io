@@ -2,9 +2,8 @@
 title: "ACM Chapter Leadership"
 collection: teaching
 type: "Student Leadership"
-permalink: /teaching/acm-leadership
 venue: "ACM, BITS Pilani"
-date: 2021-08
+date: 2021-08-01
 location: "Pilani, India"
 ---
 
