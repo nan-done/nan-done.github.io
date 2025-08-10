@@ -8,7 +8,6 @@ location: "Pilani, India"
 ---
 
 ## Association of Computing Machinery (ACM), BITS Pilani
-
 ### Core Member - Junior Year
 * Developed and launched a program connecting students with experts in niche technical fields, bridging gaps in university research and fostering innovation
 * Organized alumni-led talks on diverse career paths, providing students with real-world insights and mentorship
